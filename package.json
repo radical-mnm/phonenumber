@@ -1,0 +1,20 @@
+{
+  "name": "at-oneminutedistraction-phonenumber",
+  "version": "0.0.1",
+  "description": "This plugin allows your application get the device's phone number",
+  "cordova": {
+    "id": "at.oneminutedistraction.phonenumber",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/floatinghotpot/cordova-plugin-sms.git"
+  },
+  "author": {
+    "name": "Raymond Xie",
+    "email": "rjfun.mobile@gmail.com"
+  },
+  "license": "MIT"
+}
