@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/radical-mnm/phonenumber/edit/master.git"
+    "url": "https://github.com/radical-mnm/phonenumber.git"
   },
   "bugs": {
-    "url": "https://github.com/radical-mnm/phonenumber/edit/master/issues"
+    "url": "https://github.com/radical-mnm/phonenumber/issues"
   },
   keywords": [
     "cordova",
