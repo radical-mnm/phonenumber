@@ -10,8 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/floatinghotpot/cordova-plugin-sms.git"
+    "url": "https://github.com/radical-mnm/phonenumber/edit/master.git"
   },
+  "bugs": {
+    "url": "https://github.com/radical-mnm/phonenumber/edit/master/issues"
+  },
+  keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "sim"
+  ],
   "author": {
     "name": "Raymond Xie",
     "email": "rjfun.mobile@gmail.com"
