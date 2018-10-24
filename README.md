@@ -1,5 +1,6 @@
 # phonenumber
 Just added package.json file
+
 Cordova plugin for getting an Android device's phone number
 
 To add the plugin
