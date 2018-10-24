@@ -6,7 +6,7 @@ Cordova plugin for getting an Android device's phone number
 To add the plugin
 
 ```
-cordova plugin add https://github.com/oneminutedistraction/phonenumber.git
+cordova plugin add https://github.com/radical-mnm/phonenumber.git
 ```
 
 To remove the plugin
