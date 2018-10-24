@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/radical-mnm/phonenumber/issues"
   },
-  keywords": [
+  "keywords": [
     "cordova",
     "ecosystem:cordova",
     "sim"
